@@ -78,8 +78,8 @@
 			isa = PBXGroup;
 			children = (
 				11A85C111E57278400DEB355 /* MemeMaker */,
-				11A85C261E57278400DEB355 /* Swift PlaygroundTests */,
-				11A85C311E57278400DEB355 /* Swift PlaygroundUITests */,
+				11A85C261E57278400DEB355 /* MemeMakerTests */,
+				11A85C311E57278400DEB355 /* MemeMakerTests */,
 				11A85C101E57278400DEB355 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -108,21 +108,23 @@
 			path = "Swift Playground";
 			sourceTree = "<group>";
 		};
-		11A85C261E57278400DEB355 /* Swift PlaygroundTests */ = {
+		11A85C261E57278400DEB355 /* MemeMakerTests */ = {
 			isa = PBXGroup;
 			children = (
 				11A85C271E57278400DEB355 /* Swift_PlaygroundTests.swift */,
 				11A85C291E57278400DEB355 /* Info.plist */,
 			);
+			name = MemeMakerTests;
 			path = "Swift PlaygroundTests";
 			sourceTree = "<group>";
 		};
-		11A85C311E57278400DEB355 /* Swift PlaygroundUITests */ = {
+		11A85C311E57278400DEB355 /* MemeMakerTests */ = {
 			isa = PBXGroup;
 			children = (
 				11A85C321E57278400DEB355 /* Swift_PlaygroundUITests.swift */,
 				11A85C341E57278400DEB355 /* Info.plist */,
 			);
+			name = MemeMakerTests;
 			path = "Swift PlaygroundUITests";
 			sourceTree = "<group>";
 		};

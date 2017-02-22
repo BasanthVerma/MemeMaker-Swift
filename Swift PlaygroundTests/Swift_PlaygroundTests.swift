@@ -7,7 +7,7 @@
 //
 
 import XCTest
-@testable import Swift_Playground
+@testable import MemeMaker
 
 class Swift_PlaygroundTests: XCTestCase {
     
