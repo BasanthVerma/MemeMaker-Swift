@@ -5,4 +5,4 @@ This is a demo repository that was created to show that I've finally learned Swi
 
 Here's a Screeshot from the Application - 
 
-[![solarized dualmode](https:/https://github.com/BasanthVerma/MemeMaker-Swift/Screeshot.png)](#features)
+[![solarized dualmode](https://github.com/BasanthVerma/MemeMaker-Swift/blob/master/Screenshot.png)](#features)
