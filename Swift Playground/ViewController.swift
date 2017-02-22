@@ -112,9 +112,10 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         let memeTextAttributes:[String:Any] = [
             
             NSStrokeColorAttributeName: UIColor.black,
-            NSForegroundColorAttributeName: UIColor.white,
-            NSBackgroundColorAttributeName: UIColor.clear,
-            NSFontAttributeName: UIFont(name: "HelveticaNeue-CondensedBlack", size: 40)!,
+            NSForegroundColorAttributeName: UIColor.clear,
+      
+        
+            NSFontAttributeName: UIFont(name: "HelveticaNeue-CondensedBlack", size: 36)!,
             NSStrokeWidthAttributeName: 2
             
         ]
@@ -126,6 +127,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         textField.center = CGPoint(x: self.view.frame.size.width/2, y: self.view.frame.size.height/2)
         textField.defaultTextAttributes = memeTextAttributes
         textField.adjustsFontSizeToFitWidth = true
+        textField.backgroundColor = UIColor.clear
         self.view.addSubview(textField)
         
         //Gesture recongiser to recognise and move text
