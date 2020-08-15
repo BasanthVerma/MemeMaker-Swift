@@ -1,7 +1,7 @@
 # MemeMaker-Swift
 A Simple Meme Making iOS application written in Swift 3.0
 
-This is a demo repository that was created to show that I've finally learned Swift 3.0 and Storyboards  :P 
+This is a demo repository that was created to show that I've finally learnt Swift 3.0 and Storyboards  :P 
 
 Here's a Screeshot from the Application - 
 
